@@ -125,14 +125,14 @@
              y="19.300508"
              id="tspan20"
              style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-             >450 modules for processing vector (2D/3D), raster,</tspan>
+             >450 modules for processing vector, raster, voxel</tspan>
           <tspan
              x="-1.44354"
              y="32.300514"
              id="tspan22">
              <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-   id="tspan67">voxel and temporal data (4D)</tspan>. Many interfaces to other</tspan>
+   id="tspan67">and temporal data</tspan>. Many interfaces to other</tspan>
           <tspan
              x="-1.44354"
              y="45.30051"
@@ -148,11 +148,11 @@
           <tspan
              x="-1.44354"
              y="84.300499"
-             id="tspan30">open source GIS. It can serve as a desktop GIS as well</tspan>
+             id="tspan30">open source GIS. It can serve as a desktop GIS as</tspan>
           <tspan
              x="-1.44354"
              y="97.300499"
-             id="tspan32">as the backbone of a complete GIS infrastructure.</tspan>
+             id="tspan32">well as the backbone of a complete GIS infrastructure.</tspan>
         </text>
         <text
            id="Welcome"
@@ -806,7 +806,7 @@
             <tspan
                x="15"
                y="34"
-               id="tspan108">Raster / Vector / Voxel data processing and modelling</tspan>
+               id="tspan108">Raster-Vector (2D-3D) &amp; Voxel processing &amp; modelling</tspan>
             <tspan
                x="15"
                y="47"
@@ -818,7 +818,7 @@
             <tspan
                x="15"
                y="74"
-               id="tspan45">Temporal datasets</tspan>
+               id="tspan45">Temporal datasets (4D)</tspan>
             <tspan
                x="15"
                y="87"
