@@ -313,10 +313,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1076.1144"
-     inkscape:cy="582.33001"
+     inkscape:cx="1118.0742"
+     inkscape:cy="502.33001"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4800"
+     inkscape:current-layer="g4512"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
@@ -683,6 +683,7 @@
            x="0 4.6750002 9.809 14.331 19.243999 22.6525 27.5655 32.895 35.360001 41.692501 44.225498 47.158001 52.716999 55.181999 61.5145 66.427498 71.757004 74.222 78.744003 83.656998 87.065498 91.587502 94.120499 98.795502 103.7085 108.2305 110.6955 116.025 119.4335 124.5675 129.08949 131.6225 136.952 141.86501 147.1945 149.6595 154.989 159.60451 162.0695 169.524 174.505 179.8345 184.9175 189.83051 193.239 197.761 202.674 206.0825 208.00349">covered with web services provided by <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan124">MapServer</tspan>
+
 ,</tspan>
         <tspan
            id="tspan4650"
@@ -691,9 +692,11 @@
            x="0 5.8905001 10.8035 15.9375 21.0205 25.9335 29.341999 33.863998 38.777 42.185501 44.106499 46.571499 51.552502 57.1115 62.441002 64.905998 73.287003 78.420998 81.829498 86.7425 88.680496"><tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan127">GeoServer</tspan>
+
 , <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan129">deegree</tspan>
+
  and more.</tspan>
       </text>
       <g
@@ -721,6 +724,7 @@
            x="0 6.3325 8.8655005 11.798 17.357 19.822001 24.828501 29.9625 34.484501 37.417 43.307499 45.857498 50.940498 53.405499 58.735001 63.716 66.648499 71.629501 76.959 81.940002 86.461998 91.375 93.839996 98.362 103.496 106.029 111.639 114.5715 117.1045 122.2385 127.7975 132.3195 134.7845 139.7655 145.32449 150.65401 153.119 159.45151 164.3645 169.694 172.159 177.48849 180.897 186.03101 190.70599 195.619 200.14101 204.66299 207.196 212.755 217.617">with <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan136">PostGIS</tspan>
+
  database solutions and web processing</tspan>
         <tspan
            id="tspan4662"
@@ -729,9 +733,11 @@
            x="0 5.3295002 8.7379999 13.872 18.393999 20.927 26.2565 31.1695 36.499001 38.964001 44.293499 48.909 51.374001 56.040501 62.168999 68.297501 72.445503 77.452003 80.860497 85.994499 88.527496 93.440498 98.115501 101.048 103.513 108.494 114.053 119.3825 121.8475 126.854 131.4695 138.873 143.8795 148.96249 151.42751 155.94949 161.0835 163.6165 169.2265 172.159 174.692 179.826 185.38499">provided by <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan139">ZOO-Project</tspan>
+
  and <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan141">PyWPS</tspan>
+
  solutions</tspan>
       </text>
       <g
@@ -762,6 +768,7 @@
            x="0 4.9809999 10.54 15.8695 18.334499 23.664 28.279499 32.954498 37.476501 43.808998 46.273998 51.6035 55.012001 60.146 62.679001 67.592003 72.266998 75.199501 79.721497">and <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan150">pycsw</tspan>
+
  projects.</tspan>
       </text>
       <g
@@ -789,12 +796,15 @@
            x="0 4.862 9.7749996 14.909 23.290001 28.271 30.804001 35.785 40.306999 42.228001 44.693001 50.5835 55.496498 60.630501 68.084999 74.213501 80.342003 85.425003 90.184998 92.106003 94.570999 102.0255 107.0065 112.336 117.6655 122.5785 128.1375 133.467 138.38 141.7885 143.7095 146.1745 153.629 158.61 163.9395 169.83 175.44 177.97301 183.30251 188.2155 190.6805 196.80901 202.1385 207.0515 212.6105"><tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan157">geomajas</tspan>
+
 , <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan159">GeoMOOSE</tspan>
+
 , <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan161">Mapbender</tspan>
+
 , <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan163">MapGuide Open</tspan>
@@ -806,6 +816,7 @@
            x="0 5.0830002 10.217 15.827 19.2355 23.9105 28.8235 31.2885 36.422501 39.295502 42.168499 47.081501 50.490002 52.955002 57.936001 63.494999 65.959999 68.492996 74.052002 76.984497 81.897499 86.759499 90.167999 95.149002 98.081497 102.9945 108.324 110.789 115.77 121.0995 126.429 129.83749 134.9715 139.9525 144.6275 150.18649"><tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan166">Source</tspan>
+
  offer an integrated approach.</tspan>
       </text>
       <g
@@ -828,6 +839,7 @@
            x="0 5.4229999 10.557 16.115999 19.0485 23.9615 29.5205 32.452999 34.917999 43.299 48.279999 53.839001 58.82 63.681999 68.595001 76.975998 81.889 87.447998 90.380501 92.845497 95.378502 99.900497 102.3655 107.3465 111.8685 116.8495 119.3825 121.9155 126.8965 132.226 134.759 139.672 142.13699 145.00999 148.4185 153.55251 161.9335 164.3985 170.289 175.202 180.336 186.66 191.79401 197.1235 202.0365">Content management is available from <tspan
    style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="tspan172">GeoNode</tspan>
+
 .</tspan>
       </text>
       <text
@@ -1612,11 +1624,11 @@
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:'Miriam Libre';-inkscape-font-specification:MiriamLibre-Bold;writing-mode:lr-tb;fill:#4ab969;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="682.98419"
-         y="-412.76041">
+         y="-348.26041">
         <tspan
            id="tspan4988"
            sodipodi:role="line"
-           y="-412.76041"
+           y="-348.26041"
            x="682.98419 687.52722 691.38422 695.87817 699.53918 704.11719 705.86719 709.26221 712.46118 717.06018">OSGeo-Live</tspan>
       </text>
       <text
@@ -1624,90 +1636,90 @@
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Sintony;-inkscape-font-specification:Sintony;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="682.98419"
-         y="-402.75742">
+         y="-338.25742">
         <tspan
            id="tspan4992"
            sodipodi:role="line"
-           y="-402.75742"
+           y="-338.25742"
            x="682.98419 687.38019 690.18719 694.23322 696.26318 700.06421 704.29218 708.91217 710.9422 713.0282 717.25623 721.48419 725.28522 727.37122 731.94922 735.95319 737.98322 740.34918 744.57721 747.38422 749.41418 753.51617">Are you looking for a</tspan>
         <tspan
            id="tspan4994"
            sodipodi:role="line"
-           y="-392.75439"
+           y="-328.25439"
            x="682.98419 687.37323 691.99323 694.07922 697.9292 701.73022 703.31219 705.34222 709.7312 712.53821 716.6402 720.49017 722.90521 724.99121 728.84119 732.94318 735.02917 736.61121 738.64117 743.21918 747.32123 751.89923 756.28821 760.01221 762.04218 766.2702 770.84821">quick, practical, hands on</tspan>
         <tspan
            id="tspan4996"
            sodipodi:role="line"
-           y="-382.7514"
+           y="-318.2514"
            x="682.98419 687.60419 692.18219 696.57123 700.61719 703.42419 707.14819 709.56317 713.66522 718.24323 722.6322 724.7182 729.2962 733.30023 735.3302 739.55823 741.92419 743.95422 746.3692 750.9472 754.99323 757.02319 759.38922 764.00922 766.09521 768.18121">understanding of the full</tspan>
         <tspan
            id="tspan4998"
            sodipodi:role="line"
-           y="-372.74841"
+           y="-308.24841"
            x="682.98419 687.37323 690.18018 694.2262 698.32819 702.71722 705.1322 709.71021 711.74017 715.9682 718.33423 720.3642 724.59222 728.9812 733.02722 737.60522 739.63519 743.35919 747.58722 752.20721 755.01422 758.8642 762.91022">breadth of open source</tspan>
         <tspan
            id="tspan5000"
            sodipodi:role="line"
-           y="-362.74539"
+           y="-298.24539"
            x="682.98419 686.98822 691.03418 695.26221 698.98621 703.37518 707.47717 709.89221 711.97821 716.0802 718.1662 721.52618 723.55621 728.60321 733.22321 736.03021 738.06018 743.10718 747.29321 752.14423 756.19019 760.41821 763.83423 767.20819 769.29419 773.01819 777.06421">geospatial? Our OSGeo-Live</tspan>
         <tspan
            id="tspan5002"
            sodipodi:role="line"
-           y="-352.7424"
+           y="-288.2424"
            x="682.98419 687.37323 690.18018 694.4082 696.4942 700.54022 704.3902 706.80518 708.83521 713.22418 716.03119 720.25922 723.98322 726.06921 730.45819 734.50421 738.22821 740.25818 744.36023 746.3902 750.77917 755.0072 759.23523 761.65021 765.7522 770.14117 772.22717 776.27319">project provides a bootable</tspan>
         <tspan
            id="tspan5004"
            sodipodi:role="line"
-           y="-342.73941"
+           y="-278.23941"
            x="682.98419 687.86322 692.04919 696.34021 698.37018 702.09418 704.50922 706.59521 710.44519 714.24622 716.27618 718.37622 722.60419 725.41119 727.44122 731.16522 733.25122 736.05823 738.47321 743.0932 747.19519 749.28119 751.31122 758.2132 762.31519 766.16522 770.74323 772.82922 777.40723 781.45319 783.55322">USB stick (or virtual machine)</tspan>
         <tspan
            id="tspan5006"
            sodipodi:role="line"
-           y="-332.73639"
+           y="-268.23639"
            x="682.98419 687.21222 689.57819 691.94421 695.99017 698.79718 700.88318 705.46118 709.46521 711.4707 715.85968 718.66669 722.71271 726.12872 728.21472 732.79272 736.51672 738.9317 743.03369 745.11969 747.20569 751.25171 755.64069 757.64618 761.65021 765.69623 769.92419 773.64819 778.03723 782.13922 784.5542 786.6402 790.74219 792.82819">offering pre-installed geospatial</tspan>
         <tspan
            id="tspan5008"
            sodipodi:role="line"
-           y="-322.7334"
+           y="-258.2334"
            x="682.98419 687.21222 691.6012 695.64722 700.22522 702.25519 705.97919 710.20721 714.82721 717.63422 721.48419 725.53021 727.56018 731.28418 735.51221 737.87817 740.29321 745.50818 749.61023 752.41718 756.4632 758.04523 760.0752 763.79919 767.90118 774.80322 779.1922 781.2782 785.32422">open source software, sample</tspan>
         <tspan
            id="tspan5010"
            sodipodi:role="line"
-           y="-312.73041"
+           y="-248.23041"
            x="682.98419 687.37323 691.47522 693.8902 697.99219 699.57422 701.60419 705.83221 709.55621 713.60217 716.40918 720.13318 722.21918 726.2652 731.48022 735.20422 737.23419 741.33618 745.91418 750.30322 752.33319 756.72223 761.34222 763.42822 767.2782 771.07922 774.80322 777.2182 781.32019 784.1272 786.54218 790.26617 791.86218">data, overviews and quickstarts.</tspan>
         <tspan
            id="tspan5012"
            sodipodi:role="line"
-           y="-302.72742"
+           y="-238.22742"
            x="682.98419 685.08423 687.49921 689.52917 691.61517 695.33917 697.3692 701.9892 705.7132 709.75922 714.14819 716.17822 718.26422 722.84222 724.87219 730.08722 734.31519 737.12219 740.92322 744.64722 749.22522 753.45319 757.84222 761.56622 763.59619 767.69818 772.27618 776.66522">It is used in workshops and</tspan>
         <tspan
            id="tspan5014"
            sodipodi:role="line"
-           y="-292.7244"
+           y="-228.2244"
            x="682.98419 685.39917 690.01923 692.4342 696.66217 699.46918 701.55518 705.65723 707.74323 711.46722 713.04919 715.07922 719.18121 723.75922 728.14819 730.17822 733.97919 738.20721 742.82721 744.85718 748.70721 752.8092 757.38721 759.41718 763.26721 767.84521 771.89117 775.74121 779.54218">tutorials, and you can check</tspan>
         <tspan
            id="tspan5016"
            sodipodi:role="line"
-           y="-282.72141"
+           y="-218.22141"
            x="682.98419 685.39917 689.97717 694.02319 696.05322 699.77722 702.1922 706.23822 710.6272 714.04321 718.43219 722.23322 725.64923 729.37323 731.78821 735.83423 740.22321 742.25317 746.64221 751.26221 753.34821 757.19818 760.99921 764.72321 767.13818 771.24017 774.04718 776.46222 780.18622 782.21619 784.63123 788.85919">the step-by-step quickstarts to</tspan>
         <tspan
            id="tspan5018"
            sodipodi:role="line"
-           y="-272.71841"
+           y="-208.21841"
            x="682.98419 686.98822 691.03418 693.44922 695.47919 699.58118 701.61121 703.97717 708.02319 712.06921 714.15521 716.24121 720.81921 724.82318 726.85321 729.21918 733.4472 736.25421 738.28418 743.49921 748.07721 752.1792 754.59418 756.62421 760.7262 762.75623 767.1452 769.95221 774.18018 776.26617 780.31219 784.16223 786.57721 790.30121">get a feeling for what a project</tspan>
         <tspan
            id="tspan5020"
            sodipodi:role="line"
-           y="-262.71539"
+           y="-198.21539"
            x="682.98419 687.21222 689.57819 691.94421 695.99017 698.79718 702.52118">offers.</tspan>
         <tspan
            id="tspan5022"
-           y="-252.7124"
+           y="-188.2124"
            x="682.98419" />
         <tspan
            id="tspan5024"
            sodipodi:role="line"
-           y="-242.7094"
+           y="-178.2094"
            x="682.98419 686.02222 690.25018 692.28021 694.36621 698.41217 702.51422 705.32123 709.89923 711.9292 718.83118 723.0592 725.86621 729.91223 731.4942 733.52423 737.24823 739.33423 743.05823 745.14423 747.5592">To learn more, visit</tspan>
       </text>
       <text
@@ -1715,11 +1727,11 @@
          style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7px;font-family:Sintony;-inkscape-font-specification:Sintony-Bold;writing-mode:lr-tb;fill:#00393f;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="scale(1,-1)"
          x="682.98419"
-         y="-232.70641">
+         y="-168.20641">
         <tspan
            id="tspan5028"
            sodipodi:role="line"
-           y="-232.70641"
+           y="-168.20641"
            x="682.98419 685.23822 687.49219 691.30719 695.24823 696.88623 701.03021 704.85217 708.89819 712.83917 716.98322 718.62122 722.7652 725.6142 729.66022">live.osgeo.org</tspan>
       </text>
       <image
