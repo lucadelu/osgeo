@@ -40,12 +40,12 @@
      id="namedview207"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="288.56372"
-     inkscape:cy="677.10246"
+     inkscape:cx="266.22303"
+     inkscape:cy="535.68111"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="grass_a4" />
+     inkscape:current-layer="g4779" />
   <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">grass_a4</title>
@@ -112,23 +112,25 @@
              x="57.863998"
              y="139.35901"
              id="tspan16"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS is a free and open source software for</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">GRASS GIS is free and open source software for</tspan>
           <tspan
              x="57.863998"
              y="152.35901"
              id="tspan18"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">performing spatial analysis. It consist of more than</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">performing spatial analysis. It consists of more than</tspan>
           <tspan
              x="57.863998"
              y="165.35901"
              id="tspan20"
-             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">450 modules for processing vector, raster, voxel</tspan>
+             style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">500 modules for processing vector, raster, voxel</tspan>
           <tspan
              x="57.863998"
              y="178.35901"
              id="tspan22"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan67">and temporal data</tspan>
+
+
 
 
 
@@ -142,7 +144,7 @@
           <tspan
              x="57.863998"
              y="204.35901"
-             id="tspan26">databases, map web services and even other GIS</tspan>
+             id="tspan26">databases, web map services and even other GIS</tspan>
           <tspan
              x="57.863998"
              y="217.35899"
@@ -150,7 +152,7 @@
           <tspan
              x="57.863998"
              y="230.35899"
-             id="tspan30">open source GIS, but still at the bleeding edge of</tspan>
+             id="tspan30">open source GIS, but is still at the bleeding edge of</tspan>
           <tspan
              x="57.863998"
              y="243.35899"
@@ -784,6 +786,8 @@
 
 
 
+
+
  is used in scientific applications, commercial</tspan>
             <tspan
                x="1"
@@ -847,15 +851,15 @@
           <tspan
              x="0"
              y="87.985497"
-             id="tspan156">team and the feedback of a wide contributors community.</tspan>
+             id="tspan156">team and the feedback of a wide contributors</tspan>
           <tspan
              x="0"
              y="100.9855"
-             id="tspan158">Both combine their efforts to make GRASS GIS</tspan>
+             id="tspan158">community; both combine their efforts to make GRASS</tspan>
           <tspan
              x="0"
              y="113.9855"
-             id="tspan160">easier, more useful and powerful to everybody.</tspan>
+             id="tspan160">GIS easier, more useful and powerful to everybody.</tspan>
         </text>
       </g>
       <g
@@ -895,7 +899,7 @@
                   <polygon
                      id="Fill-6-6-6-0"
                      points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
-                     transform="translate(57.30754,396.46926)"
+                     transform="translate(57.30754,384.46926)"
                      style="fill:#4ab969" />
                   <polygon
                      id="Fill-6-6-6-8"
@@ -928,7 +932,7 @@
                     <tspan
                        x="14.764"
                        y="45"
-                       id="tspan170">the simpler for new user is the <tspan
+                       id="tspan170">the simplest for new user is the <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan165">Graphical User</tspan>
 </tspan>
@@ -936,50 +940,44 @@
                        x="14.764"
                        y="58"
                        id="tspan171"
-                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface written in WxPython, called wxGUI,</tspan>
+                       style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">Interface with several powerful tools</tspan>
                     <tspan
                        x="14.764"
                        y="71"
-                       id="tspan172">with several powerful tools</tspan>
-                    <tspan
-                       x="14.764"
-                       y="84"
                        id="tspan174">power users use the <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
-   id="tspan173">text based command</tspan>
+   id="tspan173">text-based command</tspan>
 </tspan>
                     <tspan
                        x="14.764"
-                       y="97"
+                       y="84"
                        id="tspan176"
                        style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">line interface (CLI)</tspan>
                     <tspan
                        x="14.764"
-                       y="110"
+                       y="97"
                        id="tspan195"
                        style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033">C API</tspan>
                     <tspan
                        x="14.764"
-                       y="123"
+                       y="110"
                        id="tspan179">for <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan178">Python</tspan>
-
-
  language there is a <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan180">scripting library</tspan>
 </tspan>
                     <tspan
                        x="14.764"
-                       y="136"
+                       y="123"
                        id="tspan185">and an <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan183">object-oriented Python API</tspan>
 </tspan>
                     <tspan
                        x="14.764"
-                       y="149"
+                       y="136"
                        id="tspan189">web interface through <tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan187">WPS servers</tspan>
@@ -987,12 +985,12 @@
                   </text>
                   <polygon
                      style="fill:#4ab969"
-                     transform="translate(57.30754,437.13831)"
+                     transform="translate(57.30754,449.13831)"
                      points="4.91746,165.9033 0.69246,163.4633 0.69246,168.3463 "
                      id="Fill-6-6-6-8-1" />
                   <polygon
                      style="fill:#4ab969"
-                     transform="translate(57.30754,463.17994)"
+                     transform="translate(57.30754,409.17994)"
                      points="0.69246,168.3463 4.91746,165.9033 0.69246,163.4633 "
                      id="Fill-6-6-6-8-1-4" />
                 </g>
@@ -1055,6 +1053,8 @@
    id="tspan197">Raster analysis</tspan>
 
 
+
+
 : map algebra, interpolation, mask,</tspan>
               <tspan
                  id="tspan188"
@@ -1066,6 +1066,8 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan201">3D raster (voxel) analysis</tspan>
+
+
 
 
 : 3D map algebra,</tspan>
@@ -1081,6 +1083,8 @@
    id="tspan205">Image processing</tspan>
 
 
+
+
 : aerial/UAV image, satellite data,</tspan>
               <tspan
                  id="tspan194"
@@ -1092,6 +1096,8 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan209">DTM analysis</tspan>
+
+
 
 
 : contour/surface generation, cost-path</tspan>
@@ -1107,6 +1113,8 @@
    id="tspan214">Vector analysis</tspan>
 
 
+
+
 : buffer, overlays, network analysis...</tspan>
               <tspan
                  id="tspan47"
@@ -1114,6 +1122,8 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan217">Temporal (4D) framework</tspan>
+
+
 
 
 : support for time series</tspan>
@@ -1129,6 +1139,8 @@
    id="tspan222">Point cloud analysis</tspan>
 
 
+
+
 : LiDAR, interpolation...</tspan>
               <tspan
                  id="tspan196"
@@ -1138,6 +1150,8 @@
    id="tspan225">Geocoding</tspan>
 
 
+
+
 : raster and vector maps</tspan>
               <tspan
                  id="tspan198"
@@ -1145,6 +1159,8 @@
                  x="15"><tspan
    style="font-weight:bold;font-size:8.5px;font-family:Sintony-Bold, Sintony;fill:#0b3033"
    id="tspan228">SQL-support</tspan>
+
+
 
 
 : database interfaces</tspan>
@@ -1213,26 +1229,9 @@
          preserveAspectRatio="none"
          height="192"
          width="256" />
-      <text
-         id="Title-3"
-         font-size="35"
-         font-weight="bold"
-         line-spacing="40"
-         letter-spacing="0.001"
-         y="751.26251"
-         style="font-weight:bold;font-size:35px;font-family:MiriamLibre-Bold, 'Miriam Libre';letter-spacing:0.001;fill:#4ab969"
-         x="86.350891">
-        <tspan
-           x="142.35089"
-           y="796.26251"
-           id="tspan10-6">GRASS <tspan
-   style="fill:#00393f"
-   id="tspan4980">GIS</tspan>
-</tspan>
-      </text>
       <g
          id="g4875"
-         transform="matrix(0.14655594,0,0,0.14655594,486.16996,23.759444)">
+         transform="matrix(0.14655594,0,0,0.14655594,486,23.759444)">
         <g
            id="g4818"
            class="st0"
@@ -1344,12 +1343,12 @@
              style="fill:#003a40" />
           <polygon
              id="polygon4840"
-             points="42.8,90.1 77,95.7 62.2,117.9 84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 "
+             points="77,95.7 62.2,117.9 84.3,103.1 90,137.3 95.7,103.1 84.5,95.6 77,84.4 42.8,90.1 "
              class="st2"
              style="fill:#4db05b" />
           <polygon
              id="polygon4842"
-             points="95.7,77 90,42.8 84.4,77 95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 "
+             points="90,42.8 84.4,77 95.6,84.5 103.1,95.7 137.3,90 103.1,84.4 117.9,62.2 95.7,77 "
              class="st2"
              style="fill:#4db05b" />
         </g>
